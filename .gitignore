@@ -204,3 +204,9 @@ threading.o
 Files/Hide/All.txt
 
 images/achievements/
+
+categoriesgame.o
+
+moc_categoriesgame.cpp
+
+moc_categoriesgame.o
