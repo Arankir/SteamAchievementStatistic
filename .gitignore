@@ -210,3 +210,9 @@ categoriesgame.o
 moc_categoriesgame.cpp
 
 moc_categoriesgame.o
+
+favorites.o
+
+moc_favorites.cpp
+
+moc_favorites.o
