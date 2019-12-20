@@ -216,3 +216,11 @@ favorites.o
 moc_favorites.cpp
 
 moc_favorites.o
+
+qbuttonwithdata.o
+
+qcheckboxwithdata.o
+
+qcomboboxwithdata.o
+
+qradiobuttonwithdata.o
