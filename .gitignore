@@ -224,3 +224,15 @@ qcheckboxwithdata.o
 qcomboboxwithdata.o
 
 qradiobuttonwithdata.o
+
+donutbreakdownchart.o
+
+mainslice.o
+
+moc_mainslice.cpp
+
+moc_threadstatistics.cpp
+
+moc_threadstatistics.o
+
+threadstatistics.o
