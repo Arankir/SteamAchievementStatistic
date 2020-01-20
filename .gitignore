@@ -237,10 +237,6 @@ moc_threadstatistics.o
 
 threadstatistics.o
 
-images/icon_games/
-
-images/profiles/
-
 callout.o
 
 formcompareprofilefilter.o
@@ -260,3 +256,5 @@ moc_view.cpp
 moc_view.o
 
 view.o
+
+images/
