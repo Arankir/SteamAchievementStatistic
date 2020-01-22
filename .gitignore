@@ -237,6 +237,8 @@ moc_threadstatistics.o
 
 threadstatistics.o
 
+images/
+
 callout.o
 
 formcompareprofilefilter.o
@@ -256,5 +258,3 @@ moc_view.cpp
 moc_view.o
 
 view.o
-
-images/
