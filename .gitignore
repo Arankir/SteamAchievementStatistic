@@ -238,3 +238,15 @@ moc_threadstatistics.o
 threadstatistics.o
 
 images/
+
+formcompareprofilefilter.o
+
+formcontainerachievements.o
+
+moc_formcompareprofilefilter.cpp
+
+moc_formcompareprofilefilter.o
+
+moc_formcontainerachievements.cpp
+
+moc_formcontainerachievements.o
