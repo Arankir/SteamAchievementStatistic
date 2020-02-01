@@ -239,6 +239,8 @@ threadstatistics.o
 
 images/
 
+callout.o
+
 formcompareprofilefilter.o
 
 formcontainerachievements.o
@@ -250,3 +252,15 @@ moc_formcompareprofilefilter.o
 moc_formcontainerachievements.cpp
 
 moc_formcontainerachievements.o
+
+moc_requestdata.cpp
+
+moc_requestdata.o
+
+moc_view.cpp
+
+moc_view.o
+
+requestdata.o
+
+view.o
